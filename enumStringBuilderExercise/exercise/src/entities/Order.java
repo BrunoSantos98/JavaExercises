@@ -2,12 +2,13 @@ package entities;
 
 import entities.enums.OrderStatus;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
 public class Order {
-    private Date moment;
+    private LocalDateTime moment;
     private OrderStatus status;
 
     private List<OrderItem> listItems = new ArrayList<>();
@@ -15,16 +16,16 @@ public class Order {
     public Order() {
     }
 
-    public Order(Date moment, OrderStatus status) {
+    public Order(LocalDateTime moment, OrderStatus status) {
         this.moment = moment;
         this.status = status;
     }
 
-    public Date getMoment() {
+    public LocalDateTime getMoment() {
         return moment;
     }
 
-    public void setMoment(Date moment) {
+    public void setMoment(LocalDateTime moment) {
         this.moment = moment;
     }
 
