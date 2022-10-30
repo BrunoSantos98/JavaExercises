@@ -14,3 +14,7 @@ ___________________________________
    > O exercicio tem a finalidade de treinar StrigBuilder, fomatação de data e a classe Enum.
 
    [**Link do Exercicio**](https://github.com/BrunoSantos98/JavaExercises/tree/main/enumStringBuilderExercise)
+
+#### Colaborador:
+
+![](https://avatars.githubusercontent.com/u/32339159?s=400&u=5d6caeb84bf9763bf444fbcd2a5262ff2bc2b0f1&v=4)
