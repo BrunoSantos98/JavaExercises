@@ -35,6 +35,6 @@ compilar java.
 
   3. Teste como quiser.
 
-## 🌐 Link do ecercicio original: 
+## 🌐 Link do exercício original: 
 
 [**https://github.com/devsuperior/aulao004**](https://github.com/devsuperior/aulao004)
