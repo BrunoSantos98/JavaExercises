@@ -15,6 +15,24 @@ ___________________________________
 
    [**Link do Exercicio**](https://github.com/BrunoSantos98/JavaExercises/tree/main/enumStringBuilderExercise)
 
+____________________________________
+
+2. Taxa de Imposto (Abstract Classes / Polimorfismo)
+   
+   > O exercicio tem a finalidade de treinar classes abstratas e polimorfismo.
+
+   [**Link do Exercicio**](https://github.com/BrunoSantos98/JavaExercises/tree/main/abstractExercise/AbstractExercise)
+   
+____________________________________
+
+3. Saque em Conta Bancaria (Exceções)
+   
+   > O exercicio tem a finalidade de treinar o uso de exceções do java e de exceções personalizadas.
+
+   [**Link do Exercicio**](https://github.com/BrunoSantos98/JavaExercises/tree/main/exceptionExercise)
+   
+___________________________________
+
 #### Colaborador:
 
 ![](https://avatars.githubusercontent.com/u/32339159?s=400&u=5d6caeb84bf9763bf444fbcd2a5262ff2bc2b0f1&v=4)
