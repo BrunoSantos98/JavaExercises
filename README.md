@@ -49,7 +49,7 @@ ___________________________________
    
 ___________________________________
 
-6. Mudança de salario (Programação funcional e expressões lambda)
+6. Consulta em arquivo csv (Programação funcional e expressões lambda)
    
    > O exercicio tem a finalidade de treinar o uso da programação funcional e expressões lambda.
 
