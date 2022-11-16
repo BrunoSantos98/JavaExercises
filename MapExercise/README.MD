@@ -25,7 +25,7 @@ compilar java.
   
   ## ⚠️ Cuidados ao testar:
   
-  - Lembre de colocar um caminho valido que exista no seu sistema contendo o arquivo, caso necessario crie o caminho e o arquivo com s informaçoes.
+  - Lembre de colocar um caminho valido que exista no seu sistema contendo o arquivo, caso necessario crie o caminho e o arquivo com as informaçoes.
   - Para usuarios windows o caminho deve ter barras invertidas, Ex.: "C:\\diretorio01\diretorio2\..."
   - para usuario linux usar caminho com barras normais, Ex.: "/dev/test/..."
 
