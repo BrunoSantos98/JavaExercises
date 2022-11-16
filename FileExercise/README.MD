@@ -23,9 +23,9 @@ compilar java.
 
 ## ⚠️ Cuidados ao testar:
   
-  1. Lembre de colocar um caminho valido que exista no seu sistema, caso necessario crie o caminho
-  2. Para usuarios windows o caminho deve ter barras invertidas, Ex.: "C:\\diretorio01\diretorio2\..."
-  3. para usuario linux usar caminho com barras normais, Ex.: "/dev/test/..."
+  - Lembre de colocar um caminho valido que exista no seu sistema, caso necessario crie o caminho
+  - Para usuarios windows o caminho deve ter barras invertidas, Ex.: "C:\\diretorio01\diretorio2\..."
+  - para usuario linux usar caminho com barras normais, Ex.: "/dev/test/..."
 
 ## 🌐 Link do exercício original: 
 
